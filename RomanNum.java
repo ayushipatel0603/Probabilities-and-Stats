@@ -46,6 +46,9 @@ public class RomanNum
             case 10:
                 System.out.print("The Roman Numeral is: X");
                 break;
+            case 11:
+                System.out.print("The Roman Numeral is: XI");
+                break;
             default:
                 System.out.print("The Number entered is out of range.");
 
